@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 1400px;
+    margin-top: 10%;
+    margin-left: 7%;
+    margin-right: 5%;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+/***********First Block***********/
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/***********Second Block***********/
+.text{
+    background-color: rgb(237, 236, 236);
+    font-style: normal;
+    padding-bottom: 3px;
+    text-align: center;
+    margin-right: 5%;
+}
+
+ul{
+    list-style-type:none;
+}
+
+/***********Three Block***********/
+.container{
+   
+    margin-top: 5px;
+    font-size: 15px;
+}
+
+.left-bar{
+    width: 400px;
+    float: left;
+    height: 80px;
+    padding: 20px;
+    margin-right: 3px;
+    text-align: center;
+}
+
+.middle-bar{
+    width: 200px;
+    height: 80px;
+    float: left;
+    padding:20px;
+    margin-right: 3px;
+    text-align: center;
+}
+
+.right-bar{
+    width: 600px;
+    height: 80px;
+    float: left;
+    padding: 20px;
+    text-align: center;
+}
+
+.clear{
+    clear: both;
+}
+
+a{
+    color: blue;
+}
+
+.bg-aqua{
+    background-color: rgba(84, 255, 255, 0.635);
+}
+
+.bg-aqua2{
+    background-color: rgba(77, 232, 232, 0.692);
+}
+
+.bg-aqua3{
+    background-color: rgb(108, 232, 232); 
+}
